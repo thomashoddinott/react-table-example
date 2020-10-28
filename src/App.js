@@ -115,7 +115,7 @@ function App() {
   )
 
   return (
-    <Container style={{ marginTop: 100 }}>
+    <Container style={{ marginTop: 100, marginBottom: 100 }}>
       {/* <TableContainer columns={columns} data={data} /> */}
       <TableContainer
         columns={columns}
