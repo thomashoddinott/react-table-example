@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+https://medium.com/@thewidlarzgroup/react-table-7-sorting-filtering-pagination-and-more-6bc28af104d6
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
